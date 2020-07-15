@@ -1,6 +1,8 @@
 dist: bionic
 
 language: python
+arch:
+  - ppc64le
 python:
   - "3.7"
 
